@@ -1,0 +1,16 @@
+lib/main.dart
+  name: fourm_app
+description: A new Flutter project for Four M.
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+
+flutter:
+  uses-material-design: true
+    
